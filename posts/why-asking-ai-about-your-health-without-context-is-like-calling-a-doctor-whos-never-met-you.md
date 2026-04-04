@@ -11,7 +11,8 @@ meta_title: Why AI Health Advice Without Your Context Falls Short
 meta_description: Generic AI gives generic health answers. Learn why context matters — and how a health-aware AI companion makes all the difference.
 published_at: null
 updated_at: '2026-04-04T15:33:25.000Z'
-feature_image: "images/why-asking-ai-about-your-health-without-context.jpeg"
+feature_image: https://blog.heymedy.com/content/images/2026/04/why-asking-ai-about-your-health-without-context.jpeg
+id: 69d1923c219a9f0001f0983e
 ---
 
 

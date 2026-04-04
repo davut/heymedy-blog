@@ -1,10 +1,18 @@
 ---
-title: "Your Smartwatch Is Collecting Health Data. But Is Anyone Helping You Understand It?"
+title: Your Smartwatch Is Collecting Health Data. But Is Anyone Helping You Understand It?
 status: draft
-tags: [Health, AI, Wellness, Wearables]
-meta_title: "Wearables Collect Data — AI Helps You Understand It"
-meta_description: "Millions wear health-tracking devices but struggle to act on the data. Here's how an AI health companion bridges the gap between numbers and meaning."
-feature_image: "images/wearables-health-data-ai-companion-2026.jpeg"
+tags:
+  - Health
+  - AI
+  - Wellness
+  - Wearables
+meta_title: Wearables Collect Data — AI Helps You Understand It
+meta_description: Millions wear health-tracking devices but struggle to act on the data. Here's how an AI health companion bridges the gap between numbers and meaning.
+feature_image: https://blog.heymedy.com/content/images/2026/04/wearables-health-data-ai-companion-2026.jpeg
+id: 69d1923b219a9f0001f09835
+slug: your-smartwatch-is-collecting-health-data-but-is-anyone-helping-you-understand-it-4
+updated_at: '2026-04-04T22:35:39.000Z'
+published_at: null
 ---
 
 You wake up, glance at your wrist, and see the usual report: 6 hours 42 minutes of sleep, resting heart rate of 68, blood oxygen 97%, stress score "elevated." Your smartwatch has been quietly working all night — measuring, logging, analyzing. By the time you pour your first coffee, it's collected more health data points about you than a doctor's visit typically does.

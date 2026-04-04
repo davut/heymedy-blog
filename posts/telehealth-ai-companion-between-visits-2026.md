@@ -1,10 +1,18 @@
 ---
-title: "Telehealth Got You in the Door. Now What Happens Between Visits?"
+title: Telehealth Got You in the Door. Now What Happens Between Visits?
 status: draft
-tags: [Health, AI, Telehealth, Wellness]
-meta_title: "AI Health Companions: Bridging the Gap Between Telehealth Visits"
-meta_description: "Telehealth made care more accessible in 2026. But the real health outcomes happen between appointments. Here's how AI fills that gap."
-feature_image: "images/telehealth-ai-companion-between-visits-2026.jpeg"
+tags:
+  - Health
+  - AI
+  - Telehealth
+  - Wellness
+meta_title: 'AI Health Companions: Bridging the Gap Between Telehealth Visits'
+meta_description: Telehealth made care more accessible in 2026. But the real health outcomes happen between appointments. Here's how AI fills that gap.
+feature_image: https://blog.heymedy.com/content/images/2026/04/telehealth-ai-companion-between-visits-2026-1.jpeg
+id: 69d19239219a9f0001f0982c
+slug: telehealth-got-you-in-the-door-now-what-happens-between-visits-3
+updated_at: '2026-04-04T22:35:37.000Z'
+published_at: null
 ---
 
 You finally got that telehealth appointment. You spent 12 minutes with your doctor over video, got your prescription updated, and logged off feeling like you'd done something productive for your health. Then two days later, a new symptom shows up. Or you can't remember if you took your midday medication. Or you wonder whether that headache is related to what you discussed — or something else entirely.

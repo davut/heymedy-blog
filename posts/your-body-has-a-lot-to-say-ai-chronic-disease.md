@@ -12,8 +12,8 @@ meta_title: How AI Is Changing Life With Chronic Illness
 meta_description: AI is helping people with diabetes, heart disease, and other chronic conditions catch problems earlier and manage their health day-to-day.
 published_at: null
 id: 69d18363219a9f0001f097d5
-updated_at: '2026-04-04T21:32:19.000Z'
-feature_image: "images/your-body-has-a-lot-to-say-ai-chronic-disease.jpeg"
+updated_at: '2026-04-04T22:35:41.000Z'
+feature_image: https://blog.heymedy.com/content/images/2026/04/your-body-has-a-lot-to-say-ai-chronic-disease.jpeg
 ---
 
 Managing a chronic condition — diabetes, heart disease, high blood pressure, you name it — is relentless. It's not just the medications or the lifestyle changes. It's the sheer volume of data your body produces every single day: glucose readings, blood pressure numbers, step counts, sleep quality, stress levels. And most of the time, that data just... sits there. Logged, maybe. Acted on, rarely.
