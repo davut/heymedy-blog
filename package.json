@@ -1,0 +1,15 @@
+{
+  "name": "heymedy-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ghost blog sync + publish for blog.heymedy.com",
+  "scripts": {
+    "sync": "node sync.js",
+    "publish": "node publish.js"
+  },
+  "dependencies": {
+    "marked": "^14.1.3",
+    "turndown": "^7.2.0",
+    "js-yaml": "^4.1.0"
+  }
+}
