@@ -1,5 +1,4 @@
 ---
-id: 69d1292c4380ab0001531a72
 title: Coming soon
 slug: coming-soon
 status: published

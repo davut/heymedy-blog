@@ -12,6 +12,7 @@ id: 69d1880b219a9f0001f097e0
 slug: there-arent-enough-therapists-can-ai-fill-the-gap
 updated_at: '2026-04-04T21:52:11.000Z'
 published_at: null
+feature_image: "images/ai-mental-health-tools-2026.jpeg"
 ---
 
 Mental health care in the United States has a math problem. More than 61 million Americans are living with a mental illness right now. Meanwhile, the number of licensed therapists, psychiatrists, and counselors available to help them falls dramatically short — by some estimates, the need outstrips the supply of providers by **320 to 1**.
