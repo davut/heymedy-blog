@@ -1,0 +1,20 @@
+{{!< default}}
+
+<section class="hero">
+    <div class="container">
+        <p class="hero-eyebrow">Tag</p>
+        <h1 class="hero-title">{{tag.name}}</h1>
+        {{#if tag.description}}<p class="hero-subtitle">{{tag.description}}</p>{{/if}}
+    </div>
+</section>
+
+<section class="post-list-section">
+    <div class="container">
+        <div class="post-grid">
+            {{#foreach posts}}
+                {{> "post-card"}}
+            {{/foreach}}
+        </div>
+        {{pagination}}
+    </div>
+</section>

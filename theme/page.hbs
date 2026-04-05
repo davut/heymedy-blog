@@ -1,0 +1,29 @@
+{{!< default}}
+
+{{#post}}
+<article class="post-article {{post_class}}">
+    <div class="container">
+        {{#if @page.show_title_and_feature_image}}
+            <header class="post-header">
+                <h1 class="post-title">{{title}}</h1>
+                {{#if custom_excerpt}}
+                    <p class="hero-subtitle">{{custom_excerpt}}</p>
+                {{/if}}
+            </header>
+
+            {{#if feature_image}}
+                <figure class="post-feature-image">
+                    <img src="{{img_url feature_image size="xl"}}"
+                         srcset="{{img_url feature_image size="m"}} 750w, {{img_url feature_image size="l"}} 960w, {{img_url feature_image size="xl"}} 1200w, {{img_url feature_image size="xxl"}} 2000w"
+                         sizes="(min-width: 960px) 960px, 100vw"
+                         alt="{{title}}" />
+                </figure>
+            {{/if}}
+        {{/if}}
+
+        <section class="post-content">
+            {{content}}
+        </section>
+    </div>
+</article>
+{{/post}}

@@ -1,0 +1,17 @@
+<a href="{{url}}" class="post-card">
+    {{#if feature_image}}
+        <div class="post-card-image-wrap">
+            <img class="post-card-image"
+                srcset="{{img_url feature_image size="s"}} 400w, {{img_url feature_image size="m"}} 750w, {{img_url feature_image size="l"}} 960w"
+                sizes="(min-width: 1024px) 360px, (min-width: 768px) 45vw, 100vw"
+                src="{{img_url feature_image size="m"}}"
+                alt="{{title}}"
+                loading="lazy" />
+        </div>
+    {{/if}}
+    <div class="post-card-meta">
+        {{#if primary_tag}}<span>{{primary_tag.name}}</span>{{/if}}
+    </div>
+    <h2 class="post-card-title">{{title}}</h2>
+    {{#if excerpt}}<p class="post-card-excerpt">{{excerpt words="22"}}</p>{{/if}}
+</a>

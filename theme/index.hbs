@@ -1,0 +1,26 @@
+{{!< default}}
+
+<section class="hero">
+    <div class="container">
+        <p class="hero-eyebrow">heymedy</p>
+        <h1 class="hero-title">Notes on health, <em>organized.</em></h1>
+        <p class="hero-subtitle">Articles on medication management, health tracking, and making the most of your own care — from the team building heymedy.</p>
+    </div>
+</section>
+
+<section class="post-list-section">
+    <div class="container">
+        <div class="post-list-header">
+            <p class="post-list-eyebrow">Latest</p>
+            <h2 class="post-list-title">Recent articles.</h2>
+        </div>
+
+        <div class="post-grid">
+            {{#foreach posts}}
+                {{> "post-card"}}
+            {{/foreach}}
+        </div>
+
+        {{pagination}}
+    </div>
+</section>
