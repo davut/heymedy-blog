@@ -1,10 +1,18 @@
 ---
-title: "One Size Never Fit All. How AI Is Finally Changing That."
+title: One Size Never Fit All. How AI Is Finally Changing That.
 status: draft
-tags: [Health, AI, Wellness, Personalized Medicine]
-meta_title: "Personalized Medicine & AI: Your Care Plan, Actually Tailored to You"
-meta_description: "Generic treatment plans leave patients behind. In 2026, AI is helping people track the personal details that make care actually work for them."
-feature_image: "images/personalized-medicine-ai-care-2026.jpeg"
+tags:
+  - Health
+  - AI
+  - Wellness
+  - Personalized Medicine
+meta_title: 'Personalized Medicine & AI: Your Care Plan, Actually Tailored to You'
+meta_description: Generic treatment plans leave patients behind. In 2026, AI is helping people track the personal details that make care actually work for them.
+feature_image: https://blog.heymedy.com/content/images/2026/04/personalized-medicine-ai-care-2026.jpeg
+id: 69d21ab9219a9f0001f09865
+slug: one-size-never-fit-all-how-ai-is-finally-changing-that
+updated_at: '2026-04-05T08:18:01.000Z'
+published_at: null
 ---
 
 You've probably left a doctor's appointment with a printout that felt like it could have been written for anyone. Take this medication. Avoid these foods. Come back in three months. The advice wasn't wrong. It just wasn't really about *you*.
