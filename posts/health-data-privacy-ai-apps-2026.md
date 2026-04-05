@@ -1,14 +1,18 @@
 ---
-title: "Your Health App Knows a Lot About You. Here's What's Changing in 2026"
+title: Your Health App Knows a Lot About You. Here's What's Changing in 2026
 status: draft
 tags:
   - Health
   - AI
   - Privacy
   - Wellness
-meta_title: "Health App Data Privacy in 2026: What You Need to Know"
-meta_description: "New 2026 privacy laws are changing how health apps handle your data. Here's what that means for you and how to stay protected."
-feature_image: "images/health-data-privacy-ai-apps-2026.jpeg"
+meta_title: 'Health App Data Privacy in 2026: What You Need to Know'
+meta_description: New 2026 privacy laws are changing how health apps handle your data. Here's what that means for you and how to stay protected.
+feature_image: https://blog.heymedy.com/content/images/2026/04/health-data-privacy-ai-apps-2026.jpeg
+id: 69d1b552219a9f0001f0984c
+slug: your-health-app-knows-a-lot-about-you-heres-whats-changing-in-2026
+updated_at: '2026-04-05T01:05:22.000Z'
+published_at: null
 ---
 
 You open a health app, log your symptoms, snap a photo of your prescription label, and ask a quick question about a side effect. It takes thirty seconds. But somewhere behind the screen, a detailed profile of your health is taking shape — one that may be shared, sold, or stored in ways you never agreed to.
